@@ -1,0 +1,28 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    background-color: #04322e;
+}
+
+.navbar-brand > img {
+    width: 25%;
+    display: block;
+}
+
+.nav-link {
+    color: #f8c43a;
+    letter-spacing: 2px;
+    font-weight: 200;
+    transition: .5s;
+    border-bottom: 1px solid #c93d1b; 
+}
+
+.nav-item:not(:last-child) {
+    margin-right: 5px;
+}
+
+.nav-link:active{
+    color: #35d0ba;
+}
