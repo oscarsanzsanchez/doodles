@@ -2,7 +2,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-#myVideo {
+.myVideo {
     position: fixed;
     right: 0;
     bottom: 0;
